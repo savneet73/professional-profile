@@ -78,3 +78,10 @@ Professional Skills, Certifications &amp; Activities
 - **2017:** Visit to EPR Nuclear Plant and La Hague Fuel Processing Plant, France  
 - **2015:** Advanced Nuclear Security Workshop for Indian Universities, PDPU, Gujarat, India  
 - **2014:** Nuclear Security Workshop for Indian Universities, IIT Kanpur, India
+
+## Personal & Interests
+
+- **Baking:** Enjoys developing and experimenting with recipes, reflecting patience, precision, and iterative improvement.
+- **House plants:** Cares for a small indoor plant collection, reflecting attention to detail and long‑term nurturing.
+- **Painting:** Explores acrylic and watercolor painting, linking creativity and structured problem‑solving.
+- **Hiking:** Active hiker, valuing outdoor exploration, resilience, and strategic planning.
