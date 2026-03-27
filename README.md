@@ -21,7 +21,7 @@ Professional Skills, Certifications &amp; Activities
 ---
 ## Core Skills
 
-![Core Skills Wheel](assets/core_skills_wheel.png)
+![Core Skills Wheel](/core_skills_wheel.png)
 
 ## Technical Skills
 
