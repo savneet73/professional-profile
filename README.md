@@ -19,6 +19,9 @@ Professional Skills, Certifications &amp; Activities
 - **Agile / JIRA**
 
 ---
+## Core Skills
+
+![Core Skills Wheel](assets/core_skills_wheel.png)
 
 ## Technical Skills
 
