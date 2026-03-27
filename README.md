@@ -42,11 +42,11 @@ Professional Skills, Certifications &amp; Activities
 
 ## Certifications
 
-- **Agile Project Management** – Google / Coursera  
-- **Project Network in Jira** – Coursera  
-- **Google Data Analytics Professional Certificate** – Google / Coursera  
-- **Data Science in Python** – Coursera  
-- **Machine Learning** – Coursera
+- **Project Network in Jira** – [Coursera Credential](https://coursera.org/share/4ab904032228134228dd6c214b3f139b)  
+- **Agile Project Management** – [Coursera Credential](https://coursera.org/share/33abac277a53396782e35d8ebb60f902)  
+- **Google Data Analytics Professional Certificate** – [Coursera Credential](https://coursera.org/share/6bc316467b114073fdef42e781c2b215)  
+- **Data Science in Python** – [Coursera Credential](https://www.coursera.org/account/accomplishments/certificate/GN4JTVUK84DS)  
+- **Machine Learning** – [Coursera Credential](https://www.coursera.org/account/accomplishments/certificate/LNMRJNPH222S)
 
 ---
 
