@@ -1,4 +1,4 @@
-# professional-profile
+# Professional-profile
 Professional Skills, Certifications &amp; Activities
 
 # Professional Skills, Certifications & Activities
