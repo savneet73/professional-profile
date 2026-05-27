@@ -52,10 +52,16 @@ Professional Skills, Certifications &amp; Activities
 
 ## Selected Publications
 
+- **S. Kaur**
+  *“Numerical characterization of point defect kinetics and sink strengths in crystalline solids using absorbing Markov chains.”*
+  PhD thesis. Université Paris-Saclay, 2022.
+  **HAL Id**: tel-03767531.
+  [Available here:](https://theses.hal.science/tel-03767531)
+
 - **S. Kaur**, M. Athènes, J. Creuze.  
   *“Absorption kinetics of vacancies by cavities in Aluminium: numerical characterisation of sink strengths and first-passage statistics through Krylov subspace projection and eigenvalue deflation.”*  
   **Journal of Computational Physics**, Vol. 454, 2022.  
-  [doi:10.1016/j.jcp.2022.110987](https://doi.org/10.1016/j.jcp.2022.110987)
+  [doi:10.1016/j.jcp.2022.110987](https://doi.org/10.1016/j.jcp.2022.110987)  
 
 - M. Athènes, **S. Kaur**, G. Adjanor, T. Vanacker, T. Jourdan.  
   *“Elastodiffusion and cluster mobilities using kinetic Monte Carlo simulations: fast first-passage algorithms for reversible diffusion processes.”*  
