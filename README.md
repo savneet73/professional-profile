@@ -52,7 +52,7 @@ Professional Skills, Certifications &amp; Activities
 
 ## Selected Publications
 
-- **S. Kaur**
+- **S. Kaur**  
   *“Numerical characterization of point defect kinetics and sink strengths in crystalline solids using absorbing Markov chains.”*  
   PhD thesis. Université Paris-Saclay, 2022.  
   **HAL Id:** tel-03767531.  
